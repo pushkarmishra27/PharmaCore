@@ -22,21 +22,21 @@ It's designed to look and feel like a real point-of-sale / inventory tool a smal
 
 ## 🖼️ Screenshots
 
-<!--
-Add screenshots here once available. Suggested layout:
-
 | Login | Dashboard |
-|-------|-----------|
+|:---:|:---:|
 | ![Login](assets/screenshots/login.png) | ![Dashboard](assets/screenshots/dashboard.png) |
 
-| Sell Medicine | Sales Report |
-|---------------|--------------|
-| ![Sell](assets/screenshots/sell.png) | ![Report](assets/screenshots/report.png) |
+| Add Medicine | View Medicines |
+|:---:|:---:|
+| ![Add Medicine](assets/screenshots/add-medicine.png) | ![View Medicines](assets/screenshots/view-medicines.png) |
 
-A short GIF of the full "add medicine → sell → generate invoice" flow works even better than static images.
--->
+| Medicine Search | Sell Medicine |
+|:---:|:---:|
+| ![Medicine Search](assets/screenshots/medicine-search.png) | ![Sell Medicine](assets/screenshots/sell-medicine.png) |
 
-*Screenshots coming soon — see the [Setup](#-getting-started) section to run it yourself in the meantime.*
+| Invoice / Bill | Sales Record |
+|:---:|:---:|
+| ![Invoice](assets/screenshots/invoice-bill.png) | ![Sales Record](assets/screenshots/sales-record.png) |
 
 ## ✨ Features
 
